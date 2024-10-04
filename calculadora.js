@@ -42,5 +42,4 @@ function main() {
     console.log(`O Herói tem saldo de ${resultado.saldoVitorias} vitórias e está no nível ${resultado.nivel}`);
 }
 
-// Executa o programa
 main();
